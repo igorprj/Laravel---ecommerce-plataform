@@ -42,4 +42,4 @@ The project focuses on backend architecture, authentication, and database manage
 
 
 ### ➕ Página Produto
-![Criar Produto](screenshots/create-product.png)
+![Criar Produto]([screenshots/Captura de tela 2026-02-25 135706.png](https://github.com/igorprj/Laravel---ecommerce-plataform/blob/main/screenshots/Captura%20de%20tela%202026-02-25%20135706.png))
