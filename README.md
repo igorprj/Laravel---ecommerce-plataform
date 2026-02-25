@@ -35,7 +35,7 @@ The project focuses on backend architecture, authentication, and database manage
 ![Home]([screenshots/Captura de tela 2026-02-25 135608.png](https://github.com/igorprj/Laravel---ecommerce-plataform/blob/main/screenshots/Captura%20de%20tela%202026-02-25%20135608.png))
 
 ### 🔐 Login
-![Login]([screenshots/login.png](https://github.com/igorprj/Laravel---ecommerce-plataform/blob/main/screenshots/Captura%20de%20tela%202026-02-25%20135630.png))
+![Login]([screenshots/Captura de tela 2026-02-25 135630.png](https://github.com/igorprj/Laravel---ecommerce-plataform/blob/main/screenshots/Captura%20de%20tela%202026-02-25%20135630.png))
 
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard](screenshots/admin.png)
