@@ -1,0 +1,11 @@
+* {
+    font-family: 'Roboto + mono';
+}
+
+.card-img-top {
+    height: 50%;
+    display: flex;
+    filter: blur();
+    transition: all;
+}
+
