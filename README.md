@@ -31,3 +31,5 @@ The project focuses on backend architecture, authentication, and database manage
 - Improve UI/UX
 
 ## Screenshots
+### 🏠 Home
+![Home](screenshots/Captura de tela 2026-02-25 135608.png)
